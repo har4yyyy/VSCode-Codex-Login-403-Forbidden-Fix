@@ -99,7 +99,7 @@ code --proxy-server="http://127.0.0.1:7890" --proxy-bypass-list="localhost;127.0
 ## macOS / Linux
 
 ```bash
-code --proxy-server="http://127.0.0.1:7890
+code --proxy-server="http://127.0.0.1:7890"
 ```
 
 > Replace `7890` with your actual proxy port.
